@@ -1,16 +1,17 @@
-# Ignore build artifacts
+# Build folders
 bin/
 obj/
 
-# Ignore user-specific files
+# User-specific files
 *.user
 *.suo
 *.userprefs
 
-# Ignore Visual Studio Code settings
+# IDE folders
 .vscode/
+.vs/
 
-# Windows junk files
+# Windows junk
 Thumbs.db
 Desktop.ini
 *.lnk
